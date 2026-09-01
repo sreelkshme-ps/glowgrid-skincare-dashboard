@@ -9,8 +9,8 @@ A 5-page Power BI dashboard analyzing Sephora skincare product and review data â
 
 ## Preview
 
-![Overview Page](images/overview.png)
-![Insights Page](images/insights.png)
+![Overview Page](overview.png)
+![Insights Page](insights.png)
 
 ## Overview
 
