@@ -47,8 +47,19 @@ GlowGrid turns raw Sephora product and review data into a business-analyst-style
 - **Deneb (custom visual)** — Vega-Lite sparklines on KPI cards, styled as a 3-layer glow line
 - **Design** — custom pink/lilac beauty-tech theme (background `#FFF7FA`, sidebar `#A83F6F`, primary pink `#E94F87`), built to a full design spec across all 5 pages
 
-## Author
+## Large Files
+Due to GitHub’s file size limits, the dataset is stored externally:
 
+📦 [Download Dataset from Google Drive](https://drive.google.com/file/d/1_geLG4D8oReGIc8-GzRHEbSzDH0erIwW/view?usp=sharing)
+
+### Usage
+1. Download the dataset from the link above.
+2. Place it in the `/data` folder before running queries.
+3. Open the Power BI file and connect to the dataset.
+
+---
+
+## Author
 **Sreelakshmi P S**
 Data Analyst Portfolio Project
 
