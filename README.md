@@ -50,7 +50,7 @@ GlowGrid turns raw Sephora product and review data into a business-analyst-style
 ## Large Files
 Due to GitHub’s file size limits, the dataset is stored externally:
 
-📦 [Download Dataset from Google Drive](https://drive.google.com/file/d/1_geLG4D8oReGIc8-GzRHEbSzDH0erIwW/view?usp=sharing)
+📦 [Download Dataset from Google Drive] https://drive.google.com/file/d/1jNnYlUtDECRvLHYXLbEjo9NdIhcqVcyF/view?usp=sharing
 
 ### Usage
 1. Download the dataset from the link above.
